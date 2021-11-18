@@ -2,5 +2,5 @@
 const MyPhoneNumber = String("9843018195");
 console.log(MyPhoneNumber)
 
-/*It would be better to store my phone number as string because the phone number does get changed
+/*It would be better to store my phone number as string because the phone number does not get changed
 and it is stored as a constant so that no one can change the value of that Variable.*/
