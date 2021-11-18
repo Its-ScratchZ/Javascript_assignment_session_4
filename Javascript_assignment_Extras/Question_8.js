@@ -1,1 +1,4 @@
-/*I donot know the answer for this question I tried but I could not print the data type apart from string T_T.*/
+// use typeof operator to check the value returned by the prompt() function
+
+let MyVar = prompt('Enter your data : ')
+console.log(typeof MyVar)
